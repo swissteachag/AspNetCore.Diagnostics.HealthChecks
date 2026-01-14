@@ -13,10 +13,10 @@
   "author": "Xabaril Team",
   "license": "ISC",
   "dependencies": {
-    "moment": "2.27.0",
+    "moment": "2.29.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-json-view": "1.19.1",
+    "react-json-view": "1.21.3",
     "react-query": "^2.15.4",
     "react-router-dom": "5.2.0",
     "react-vertical-timeline-component": "^3.0.2"
